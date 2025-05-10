@@ -1,1 +1,1 @@
-Example Apex invokable class used to demonstrate the compression namespace.  This class is referenced in my blog post for Salesforce Break [[https://salesforcebreak.com/2024/10/17/create-zip-archives-in-flow/]].
+Example Apex invokable class used to demonstrate the compression namespace.  This class is referenced in my [blog post](https://salesforcebreak.com/2024/10/17/create-zip-archives-in-flow/) for Salesforce Break .
